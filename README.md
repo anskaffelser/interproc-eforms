@@ -6,6 +6,7 @@ Repository for collecting issues related for the eForms SDK.
 ## Useful links
 
 * [Ted Developer Docs - eForms](https://docs.ted.europa.eu/eforms/0.4.0/)
+* [Validation service](https://anskaffelser.dev/service/validator/)
 
 
 ## Official repos
