@@ -1,7 +1,5 @@
 # InterProc: eForms
 
-Repository for collecting issues related for the eForms SDK.
-
 
 ## Useful links
 
