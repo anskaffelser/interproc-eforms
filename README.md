@@ -3,6 +3,7 @@
 
 ## Useful links
 
+* [Regulation](https://ec.europa.eu/docsroom/documents/43488)
 * [Ted Developer Docs - eForms](https://docs.ted.europa.eu/eforms/0.4.0/)
 * [Validation service](https://anskaffelser.dev/service/validator/)
 
